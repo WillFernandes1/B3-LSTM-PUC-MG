@@ -31,12 +31,6 @@ def main():
     stock_path  = os.path.join(rootPath, "data", "processed", "2015-2018", "PETR.csv")
     validation_data_path = os.path.join(rootPath, "data", "processed", "2019", "PETR.csv")
     # as features disponíveis são [volume, open, max, min, close]
-    # so if you wanna select volume put 0, or max put 2
-    # 'volume' : 0,
-    # 'open'   : 1,
-    # 'max'    : 2,
-    # 'min'    : 3,
-    # 'close'  : 4
     # selecionar o valor que quer prever
     feature = 'close'
     # quantos dias no futuro vai tentar prever

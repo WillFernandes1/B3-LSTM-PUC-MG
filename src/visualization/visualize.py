@@ -1,7 +1,3 @@
-"""
-@author: gabriel
-"""
-
 import pandas as pd
 import os
 import seaborn as sns
