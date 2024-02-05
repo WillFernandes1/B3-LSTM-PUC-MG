@@ -1,7 +1,6 @@
 B3-LSTM
 ==============================
-Wilkerson Carvalho
-PUC Minas
+Wilkerson Carvalho, PUC Minas
 
 
 <img src=/reports/figures/rede.png>
