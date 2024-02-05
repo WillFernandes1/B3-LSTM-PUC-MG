@@ -1,7 +1,7 @@
 B3-LSTM
 ==============================
-##Wilkerson Carvalho
-##Puc Minas
+###Wilkerson Carvalho
+###Puc Minas
 
 
 <img src=/reports/figures/rede.png>
