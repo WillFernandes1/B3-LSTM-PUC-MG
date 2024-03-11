@@ -1,6 +1,6 @@
 B3-LSTM
 ==============================
-
+PUC Minas, Wilkerson 2024
 
 
 <img src=/reports/figures/rede.png>
