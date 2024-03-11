@@ -57,7 +57,9 @@ Dentro do Mapbox Studio:
 ###Para criar um novo tileset
     - New TyleSet -> Carregar o arquivo em csv contendo as colunas georreferenciadas.
     - O arquivo esperado pode ser em CSV, Shapefile, dentre outros, neste caso utilizamos .csv
+
 ###Para criar um style: 
+
 - https://studio.mapbox.com/
     - New style:
     - Classic Template
